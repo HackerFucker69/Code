@@ -1,0 +1,26 @@
+using System;
+
+namespace CyberThreat101
+{
+    using System.Net;
+
+}
+
+internal class Program
+    {
+    private readonly String timeStamp = GetTimestamp(DateTime.Now);
+
+    private static string GetTimestamp(DateTime now)
+    {
+        throw new NotImplementedException();
+    }
+
+    public static void Main(string[]args)
+    {  
+            
+            Console.WriteLine("IP Information");
+            Console.WriteLine("IP Location");
+            Console.WriteLine("Threat Detected");        
+
+    }
+}
