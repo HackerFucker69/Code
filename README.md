@@ -3,8 +3,9 @@ Security
 Scripting and Software 
 Development 
 
-Getting Started
-These instructions outline my projects and development builds 
+Getting Started: 
+Projects 
+Builds and Development 
 
 Prerequisites: 
 Operating System
