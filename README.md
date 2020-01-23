@@ -8,15 +8,13 @@ Project Builds and Development
 
 System Prerequisites: 
 Operating System (Linux or Windows) 
-CPU
-RAM 
-HARD DISK
+CPU / RAM / HARD DISK
 
 Running Applications and Scripts 
 Compile / Execute / End 
 
 Tools: 
-Visual Studio & Notepad ++
+Visual Studio, Powershell, Python, Notepad ++
 
 Versions Releases 
 Version 1.0.0 - .10 
