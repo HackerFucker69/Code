@@ -1,6 +1,8 @@
 Research and Development  
-Software and Scripting 
-Security and Vulnerability Testing 
+Software Development 
+Scripting 
+Security
+Vulnerability  
 
 Project Builds and Development 
 
