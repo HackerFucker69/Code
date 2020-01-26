@@ -1,3 +1,6 @@
+//Search Declared Path Variables C:\ and E:\ for unencrypted .bak database files inside of the declared windows paths 
+//Results outputted to .CSV file 
+
 Get-ChildItem -Path "C:\", "E:\" -ErrorAction SilentlyContinue -Exclude "*.bak.zip*", ".xml.bak*" -Recurse -Include "*.bak*" | 
 Where {$_.FullName -notlike "*\Windows\*"} | Where {$_.FUllName -notlike "*\ProgramData\*"} | 
 Where {$_.FullName -notlike "*\Program Files (x86)\*"} | ForEach-Object {$_.FullName} |
