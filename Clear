@@ -1,1 +1,2 @@
+//Powershell Script to Clear Browser Cache 
 Clear-ChromeHistory -DaysToKeep 0 -Cookies -Verbose
